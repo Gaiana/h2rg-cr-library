@@ -19,7 +19,7 @@ Optics Imager, on the 8.1 m Gemini South telescope at Cerro Pachón, Chile
 arrays (18 µm pixels, 2.5 µm cutoff).
 
 <p align="center">
-  <img src="figures/fig_example_stamps.png" width="80%"
+  <img src="Figures/fig_example_stamps.png" width="60%"
        alt="Nine example cosmic-ray stamps from the library">
 </p>
 
@@ -142,7 +142,7 @@ of the library is not biased towards any read mode or exposure time.
 The comparison below shows why chip 4 and the 50 s darks are left out:
 
 <p align="center">
-  <img src="figures/fig_library_comparison.png" width="80%"
+  <img src="Figures/fig_library_comparison.png" width="50%"
        alt="Cosmic-ray rate vs charge for the library and for subsets">
 </p>
 
@@ -168,3 +168,5 @@ Rates are per unit area, time and decade (dex) of charge.
 ## Authors
 
 Gaia Gaspar & Marcin Sawicki
+
+Please use this library freely and cite the repo! Thanks
